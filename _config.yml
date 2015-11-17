@@ -39,10 +39,10 @@ timezone:      null
 
 
 #Site config
-title: Jekyll Theme
-description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: Jekyll Theme
-url: http://pizn.github.io/kunka
+title: benafrant's orchard
+description: 我的个人博客，爱好成长的小果园
+keywords: 个人成长记录
+url: benafrant.github.io
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -61,13 +61,13 @@ nav:
 
 #Author config
 author:
-    name: 掌心
-    email: zhanxin.info@gmail.com
+    name: benafrant
+    email: benafrant@163.com
     imageLink: http://tp2.sinaimg.cn/1832671293/180/40020872447/1
-    simpleIntro: 我是「展新展新」，一个矛盾体的化身，在你的掌心里。
+    simpleIntro: 我是阿笨，一直被自己打败的人，也一直在学习怎么打败自己
     detailIntro:
-      <p>Jekyll 是一个简洁的、特别针对博客平台的 静态网站 生成器。它使用一个模板目录作为网站布局的基础框架，并在其上运行 Textile 、 Markdown 或 Liquid 标记语言的转换器，最终生成一个完整的静态Web站点，可以被放置在Apache或者你喜欢的其他任何Web服务器上。它同时也是 GitHub Pages 、一个由 GitHub 提供的用于托管项目主页或博客的服务，在后台所运行的引擎。</p>
-      <p>很早之前，使用过 wordpress 来写博客。但是还要处理很多的底层问题。而使用 Jekyll 来写博客，可以很简单，写 Markdown 就好。然而，Jekyll 还很年轻，没有很多主题的支持。这里的主题，就是为 Jekyll 而写的。希望你能喜欢。</p>
+      <p>。我是一名普通的阿森纳球迷，也是寻常的马刺人，书和足球是连接我生命的两口深井，没有它们，我的园地就会枯竭。</p>
+      <p>我对书有着执念，经常上图书馆超重而归，不论新书旧书，都能让我着迷，我特别喜欢逛旧书店，享受淘取宝藏的乐趣，意外的发现总能让我开心良久。同样，没有足球我的生命的一半意义将不复存在。</p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
