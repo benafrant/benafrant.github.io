@@ -42,7 +42,7 @@ timezone:      null
 title: benafrant's orchard
 description: 我的个人博客，爱好成长的小果园
 keywords: 个人成长记录
-url: benafrant.github.io
+url: http://pizn.github.io/kunka
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
