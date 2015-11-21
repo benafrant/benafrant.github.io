@@ -75,8 +75,6 @@ follow:
     url: /atom.xml
   - class: icon-weibo
     url: 
-  - class: icon-renren
-    url: 
   - class: icon-github-alt
     url: http://github.com/benafrant
   - class: icon-twitter
@@ -87,12 +85,10 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
+      url: 
     message: Friends
   - item:
     - text: Font Awesome
@@ -115,4 +111,4 @@ disqus:
 
 duoshuo:
   config: true
-  id: 
+  id: ben afrant
