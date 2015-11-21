@@ -74,13 +74,13 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/pizn
+    url: 
   - class: icon-renren
-    url: http://renren.com
+    url: 
   - class: icon-github-alt
-    url: http://github.com/pizn
+    url: http://github.com/benafrant
   - class: icon-twitter
-    url: http://twitter.com/piznlin
+    url: http://twitter.com/benafrant
   - class: icon-google-plus
     url: http://google.com
 
@@ -111,8 +111,8 @@ googleAnaly:
 #comment config
 disqus:
   config: false
-  id: piznblog
+  id:
 
 duoshuo:
   config: true
-  id: zhanxin
+  id: 
