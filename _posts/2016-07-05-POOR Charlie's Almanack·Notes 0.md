@@ -6,6 +6,7 @@ category: "博文"
 ---
 ## POOR Charlie's Almanack·Notes 0
 
+***
 
 # Charlie counts preparation, patience,discipline, and objectivity among his most fundamental guiding principles.
 
